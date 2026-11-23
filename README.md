@@ -123,7 +123,7 @@ The dataset therefore contains a noticeable class imbalance, which was examined 
 
 ## 3. GitHub Repository Link
 
-**Repository:** https://github.com/2026ct05059-beep/ML_Assignment_2_Classification
+**Repository:** https://github.com/2026ct05059/ML_Assignment_2_Classification
 
 ---
 
